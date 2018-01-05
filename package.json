@@ -1,7 +1,7 @@
 {
   "name": "truthbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. make code change in the online editor",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +18,13 @@
   "devDependencies": {
     "request": "^2.81.0",
     "zip-folder": "^1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinhLe001/TruthBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BinhLe001/TruthBot/issues"
+  },
+  "homepage": "https://github.com/BinhLe001/TruthBot#readme"
 }
